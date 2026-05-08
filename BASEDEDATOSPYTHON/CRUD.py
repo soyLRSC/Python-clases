@@ -29,7 +29,7 @@ def pedir_texto(campo):
         if re.fullmatch(r"[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+", texto):
             return texto
         else:
-            print(f"⚠️ El campo '{campo}' debe contener solo texto alfabético. Intenta de nuevo.")
+            print(f" El campo '{campo}' debe contener solo texto alfabético. Intenta de nuevo.")
 
 
 # Validación de texto único en la colección
@@ -213,7 +213,7 @@ def menu_actualizar(collection):
             if not collection.find_one({"nikname": nikname}):
                 nuevos_valores["nikname"] = nikname
         else:
-            print(f"⚠️ El nickname '{nikname}' ya está en uso. Se omitirá.")
+            print(f" El nickname '{nikname}' ya está en uso. Se omitirá.")
 
         Token = input("Nuevo Token: ")
         if Token:
