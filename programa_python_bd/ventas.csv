@@ -1,0 +1,101 @@
+Fecha,Producto,Cantidad,Precio Unitario,Ciudad
+01/01/2024,Laptop,5,287,Aguascalientes
+02/01/2024,Smartphone,3,2805,Baja California
+03/01/2024,Tablet,4,150,Baja California Sur
+04/01/2024,Smartwatch,2,2695,Campeche
+05/01/2024,Televisor OLED,5,1857,Chiapas
+06/01/2024,Audífonos inalámbricos,3,2747,Chihuahua
+07/01/2024,Parlante inteligente,4,1636,Coahuila
+08/01/2024,Enrutador Wi-Fi 6,2,989,Colima
+09/01/2024,Cámara de seguridad inteligente,5,770,Durango
+10/01/2024,Monitor 4K,3,959,Guanajuato
+11/01/2024,Laptop para juegos,4,1334,Guerrero
+12/01/2024,Proyector de video portátil,2,2683,Hidalgo
+13/01/2024,Disco duro externo,5,2147,Jalisco
+14/01/2024,Cámara digital DSLR,3,1315,México
+15/01/2024,Lente para cámara,4,2976,Michoacán
+16/01/2024,Micrófono de condensador USB,2,417,Morelos
+17/01/2024,Teclado mecánico RGB,5,705,Nayarit
+18/01/2024,Mouse para juegos,3,786,Nuevo León
+19/01/2024,Altavoz Bluetooth,4,841,Oaxaca
+20/01/2024,Bocina para computadora,2,1604,Puebla
+21/01/2024,Cargador inalámbrico,5,2738,Querétaro
+22/01/2024,Enchufe inteligente,3,973,Quintana Roo
+23/01/2024,Timbre de video inteligente,4,363,San Luis Potosí
+24/01/2024,Bombilla inteligente,2,2858,Sinaloa
+25/01/2024,Termostato inteligente,5,1734,Sonora
+26/01/2024,Centro de control para hogar inteligente,3,2467,Tabasco
+27/01/2024,Refrigerador inteligente,4,1291,Tamaulipas
+28/01/2024,Lavadora inteligente,2,2402,Tlaxcala
+29/01/2024,Consola de videojuegos,5,1547,Veracruz
+30/01/2024,Controlador de videojuegos,3,2542,Yucatán
+31/01/2024,Silla de juegos,4,1066,Zacatecas
+01/02/2024,Webcam 1080p,2,1795,Aguascalientes
+02/02/2024,Luces LED RGB,5,923,Baja California
+03/02/2024,Hub USB-C,3,573,Baja California Sur
+04/02/2024,Impresora 3D,4,909,Campeche
+05/02/2024,Filamento de impresión 3D,2,2547,Chiapas
+06/02/2024,Escáner de documentos,5,1620,Chihuahua
+07/02/2024,Stylus para tablet,3,800,Coahuila
+08/02/2024,Cinta para correr inteligente,4,223,Colima
+09/02/2024,Drone con cámara,2,1200,Durango
+10/02/2024,Control remoto universal,5,200,Guanajuato
+11/02/2024,Reloj despertador inteligente,3,1684,Guerrero
+12/02/2024,Cable HDMI 4K,4,1467,Hidalgo
+13/02/2024,Lámpara de escritorio LED,2,1327,Jalisco
+14/02/2024,Soporte para monitor,5,2580,México
+15/02/2024,Caja de luz fotográfica,3,1938,Michoacán
+16/02/2024,Power Bank (Batería externa),4,2146,Morelos
+17/02/2024,Mochila antirrobo para laptop,2,2797,Nayarit
+18/02/2024,Disco SSD portátil,5,1909,Nuevo León
+19/02/2024,Cinta métrica láser,3,2844,Oaxaca
+20/02/2024,Reproductor de medios de transmisión,4,1582,Puebla
+21/02/2024,Panel solar portátil,2,2148,Querétaro
+22/02/2024,Cámara de acción,5,2584,Quintana Roo
+23/02/2024,Controlador MIDI,3,300,San Luis Potosí
+24/02/2024,Gafas de realidad virtual,4,2577,Sinaloa
+25/02/2024,Adaptador Ethernet a USB,2,1649,Sonora
+26/02/2024,Bastón selfie con trípode,5,443,Tabasco
+27/02/2024,Smartband (banda inteligente),3,546,Tamaulipas
+28/02/2024,Adaptador de corriente para laptop,4,290,Tlaxcala
+29/02/2024,Adaptador HDMI a VGA,2,550,Veracruz
+01/03/2024,Soporte de carga múltiple,5,2993,Yucatán
+02/03/2024,Teclado plegable,3,501,Zacatecas
+03/03/2024,Purificador de aire inteligente,4,1718,Aguascalientes
+04/03/2024,Hub de puertos USB,2,2772,Baja California
+05/03/2024,Tarjeta de memoria SD,5,757,Baja California Sur
+06/03/2024,Carcasa para disco duro,3,1080,Campeche
+07/03/2024,Grabadora de voz digital,4,2323,Chiapas
+08/03/2024,Micrófono para cámara,2,424,Chihuahua
+09/03/2024,Soporte para celular,5,2081,Coahuila
+10/03/2024,Cámara de tablero para automóvil,3,2472,Colima
+11/03/2024,Sistema de sonido envolvente,4,1222,Durango
+12/03/2024,Enfriador de CPU,2,1446,Guanajuato
+13/03/2024,Estación de carga para dispositivos,5,932,Guerrero
+14/03/2024,Repetidor de señal Wi-Fi,3,2372,Hidalgo
+15/03/2024,Controlador de iluminación DMX,4,2712,Jalisco
+16/03/2024,Gimbal estabilizador,2,190,México
+17/03/2024,Protector de pantalla de vidrio templado,5,1431,Michoacán
+18/03/2024,Mini proyector,3,686,Morelos
+19/03/2024,Caja fuerte digital,4,509,Nayarit
+20/03/2024,Cámara de videovigilancia 360°,2,605,Nuevo León
+21/03/2024,Brazo para monitor,5,1755,Oaxaca
+22/03/2024,Cable de extensión USB,3,777,Puebla
+23/03/2024,Amplificador de señal de teléfono,4,464,Querétaro
+24/03/2024,Cerradura inteligente para puertas,2,2824,Quintana Roo
+25/03/2024,Tira LED inteligente,5,2116,San Luis Potosí
+26/03/2024,Disco duro de red (NAS),3,2220,Sinaloa
+27/03/2024,Cámara térmica,4,2416,Sonora
+28/03/2024,Impresora láser,2,610,Tabasco
+29/03/2024,Termómetro infrarrojo,5,2012,Tamaulipas
+30/03/2024,Limpiador ultrasónico,3,214,Tlaxcala
+31/03/2024,Cámara instantánea,4,918,Veracruz
+01/04/2024,Kit de domótica,2,185,Yucatán
+02/04/2024,Adaptador de carga rápida,5,2527,Zacatecas
+03/04/2024,Cargador solar,3,1584,Aguascalientes
+04/04/2024,Parlante portátil sumergible,4,2300,Baja California
+05/04/2024,Controlador de videojuegos retro,2,1074,Baja California Sur
+06/04/2024,Mouse ergonómico,5,301,Campeche
+07/04/2024,Deshumidificador inteligente,3,2472,Chiapas
+08/04/2024,Batería de respaldo para PC,4,930,Chihuahua
+09/04/2024,Escáner 3D,2,1890,Coahuila
