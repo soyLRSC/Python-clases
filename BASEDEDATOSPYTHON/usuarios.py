@@ -6,7 +6,7 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 
 
-MONGO_URI = "mongodb+srv://2124200328_db_user:goTe8610@cluster0.hr2uuz8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://2124200328_db_user:xxxxxx@cluster0.hr2uuz8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DATABASE_NAME = "biblioteca"
 COLLECTION_NAME= "usuarios"
 
